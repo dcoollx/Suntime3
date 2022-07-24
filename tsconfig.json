@@ -1,5 +1,8 @@
 {
   "compilerOptions": {
+    "typeRoots": [
+      "src/utilities/types"
+    ],
     "target": "es5",
     "lib": [
       "dom",
